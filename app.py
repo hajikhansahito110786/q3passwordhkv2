@@ -8,9 +8,9 @@ st.set_page_config(page_title="Make Password perfect",page_icon="",layout="cente
 st.markdown("""
             <style>
             .main {text-align: center;}
-            .stTextInput {width: 60% !important; margin: }
-            .stButton button {width: 50%; background-color #4CAF50;color: white; font-size:18px}
-            .stButton button:hover {background-color:#45a049;}
+            .stTextInput {width: 80% !important; margin: }
+            .stButton button {width: 70%; background-color #3CAF50;color: yellow; font-size:20px}
+            .stButton button:hover {background-color:#25a049;}
             </style>
             """, unsafe_allow_html=True)
 
